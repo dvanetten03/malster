@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 
 #Add user authentication to application
 gem 'devise', '>= 3.2.4'
+gem 'simple_form'
